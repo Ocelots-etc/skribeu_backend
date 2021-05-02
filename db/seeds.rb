@@ -9,3 +9,4 @@
 margee = Game.create(title: "Dice")
 jackie = Game.create(title: "Heels")
 lacy = Game.create(title: "Pets")
+
