@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+margee = Game.create(title: "Dice")
+jackie = Game.create(title: "Heels")
+lacy = Game.create(title: "Pets")
